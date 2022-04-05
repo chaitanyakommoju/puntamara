@@ -21,7 +21,8 @@ cd /opt/
 git clone https://github.com/socDAEU/puntamara.git
 cd puntamara/
 bash installer.sh
-bash installer_MISP.sh
+## Resource: https://github.com/MISP/MISP/blob/2.4/INSTALL/INSTALL.sh
+bash installer_MISP.sh 
 ```
 ## Video:
 [href](https://streamable.com/n49lxu)
