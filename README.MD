@@ -23,6 +23,9 @@ cd puntamara/
 bash installer.sh
 bash installer_MISP.sh
 ```
+## Video:
+[href](https://streamable.com/n49lxu)
+
 ## To access for a single docker to developement:
 ```bash
 docker exec -it your_docker_image bash
