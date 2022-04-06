@@ -28,6 +28,10 @@ The `puntamara` from author `John Doe` is a basic monitoring system and auditing
 
 ## Change the `password` with yours:
 
+```bash
+vim puntamara/nextcloud/docker-compose.yml
+```
+- where...
 
 ```yml
     environment:
