@@ -5,7 +5,7 @@ The `puntamara` from author `John Doe` is a basic monitoring system and auditing
 
 ## WARNING:
 ### Install a Linux machine with username plus home directory `puntamara`!!!
-### DO NOT EXECUTE THOSE SCRIPTS AGAIN AFTER INSTALLATION!!!
+### DO NOT EXECUTE THOSE SCRIPTS AGAIN AFTER INSTALLATION!!! (#bd2c00)
 
 ## Need to install
 - Docker
