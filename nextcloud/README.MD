@@ -13,4 +13,10 @@
     environment:
       - MYSQL_ROOT_PASSWORD=password
       - MYSQL_PASSWORD=password
+      
+```
+```yml
+    - nextcloud:/var/www/html
+    environment:
+      - MYSQL_PASSWORD=password
 ```
