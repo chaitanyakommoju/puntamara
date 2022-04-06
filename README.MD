@@ -8,6 +8,7 @@ The `puntamara` from author `John Doe` is a basic monitoring system and auditing
 ### &#x1F534; DO NOT EXECUTE THOSE SCRIPTS AGAIN AFTER INSTALLATION ON THE SAME MACHINE!!!
 
 ## Need to install
+- ubuntu-20.04.4-live-server-amd64
 - Docker
 - Git
 - net-tools
