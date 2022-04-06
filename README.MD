@@ -4,6 +4,9 @@
 The `puntamara` from author `John Doe` is a basic monitoring system and auditing event management framework software, which uses already public instruments. Also, this is an automation of popular instruments for this job. This is small framework and strong software!
 
 ## WARNINGS BEFORE INSTALLATION!!!
+
+- For **USERS!!!**
+
 ### &#x1F534; Install a Linux machine with username plus home directory `puntamara`!!!
 ### &#x1F534; DO NOT EXECUTE THOSE SCRIPTS AGAIN AFTER INSTALLATION ON THE SAME MACHINE!!!
 
