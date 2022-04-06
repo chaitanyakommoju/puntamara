@@ -55,6 +55,12 @@ bash installer.sh
 ## Resource: https://github.com/MISP/MISP/blob/2.4/INSTALL/INSTALL.sh
 bash installer_MISP.sh 
 ```
+-----------------------------------------------------------------------
+
+## The containers after installation:
+
+![](https://github.com/nu11secur1ty/puntamara/blob/main/docs/Containers.gif)
+
 ## Video:
 [href](https://streamable.com/n49lxu)
 
