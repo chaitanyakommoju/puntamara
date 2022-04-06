@@ -15,7 +15,24 @@ The `puntamara` from author `John Doe` is a basic monitoring system and auditing
 ## IMPORTANT!
 - - - Check for your `SSL` certificate of your virtual machine if you use a virtual machine, and you do not have a certificate, you must install it before running this repository. You will need this for the `docker` and other software repository and pkg key authorization!
 
-## Installing:
+---------------------------------------------------------------------------------------------------------------
+
+# Installing:
+
+## For nextcloud
+
+### WARNING: BEFORE YOU INSTALL THE SERVICE from `installer.sh`!
+
+- Change your MySQL passwords and your configuration!
+
+## For example:
+
+```yml
+    environment:
+      - MYSQL_ROOT_PASSWORD=password
+      - MYSQL_PASSWORD=password
+```
+
 ```bash
 cd /opt/
 git clone https://github.com/socDAEU/puntamara.git
