@@ -25,7 +25,7 @@ The `puntamara` from author `John Doe` is a basic monitoring system and auditing
 
 - Change your MySQL passwords and your configuration!
 
-## Change the `password` with your:
+## Change the `password` with yours:
 
 ```yml
     environment:
