@@ -28,11 +28,19 @@ The `puntamara` from author `John Doe` is a basic monitoring system and auditing
 
 ## Change the `password` with yours:
 
+
 ```yml
     environment:
       - MYSQL_ROOT_PASSWORD=password
       - MYSQL_PASSWORD=password
+      
 ```
+```yml
+    - nextcloud:/var/www/html
+    environment:
+      - MYSQL_PASSWORD=password
+```
+
 - Next step...
 
 ```bash
