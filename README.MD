@@ -37,7 +37,7 @@ The `puntamara` from author `John Doe` is a basic monitoring system and auditing
 
 ```bash
 cd /opt/
-git clone https://github.com/socDAEU/puntamara.git
+git clone https://github.com/nu11secur1ty/puntamara.git
 cd puntamara/
 bash installer.sh
 ## Resource: https://github.com/MISP/MISP/blob/2.4/INSTALL/INSTALL.sh
