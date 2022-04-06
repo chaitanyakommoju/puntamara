@@ -5,5 +5,7 @@
 ## For example:
 
 ```yml
-
+    environment:
+      - MYSQL_ROOT_PASSWORD=password
+      - MYSQL_PASSWORD=password
 ```
