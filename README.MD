@@ -25,13 +25,14 @@ The `puntamara` from author `John Doe` is a basic monitoring system and auditing
 
 - Change your MySQL passwords and your configuration!
 
-## For example:
+## Change the `password` with your:
 
 ```yml
     environment:
       - MYSQL_ROOT_PASSWORD=password
       - MYSQL_PASSWORD=password
 ```
+- Next step...
 
 ```bash
 cd /opt/
