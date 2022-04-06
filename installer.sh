@@ -8,10 +8,11 @@ apt autoremove -y
 systemctl start docker.service
 systemctl enable docker.service
 systemctl restart docker.service
+
 ## ENV
+# cd puntamara/
+# docker-compose up -d
 cd puntamara/
-#	docker-compose up -d
-	cd puntamara/
 	bash puntamara.sh
 	cd ..
 	sleep 3;
