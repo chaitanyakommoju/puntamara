@@ -58,3 +58,9 @@ bash installer_MISP.sh
 ```bash
 docker exec -it your_docker_image bash
 ```
+## To stopping your containers:
+
+```perl
+perl docker-stopper.pl 
+```
+
