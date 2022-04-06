@@ -74,7 +74,7 @@ docker exec -it your_docker_image bash
 ```perl
 perl docker-stopper.pl 
 ```
-## To starting and updating your containers:
+## To start and updating your containers:
 ```bash
 bash docker-starter.sh
 ```
