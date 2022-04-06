@@ -1,6 +1,9 @@
 ## nextcloud
-## WARNING!
-- Change you MySQL passwords your configuration!
+
+
+### WARNING: BEFORE YOU INSTALL THE SERVICE from `installer.sh`!
+
+- Change your MySQL passwords and your configuration!
 
 ## For example:
 
