@@ -36,6 +36,7 @@ The `puntamara` from author `qlB2xkd/RKxC2YsruBK/98T9QmForfbjmEbuCyfZ5Cc=` is a 
 
 ```bash
 cd /opt/
+git clone https://github.com/nu11secur1ty/puntamara.git
 vim puntamara/nextcloud/docker-compose.yml
 ```
 - where...
@@ -52,7 +53,8 @@ vim puntamara/nextcloud/docker-compose.yml
       - MYSQL_PASSWORD=password
 ```
 
-- Next step...
+## CLEAN INSTALLATION WITHOUT ANY CHANGES!
+- Installing without changing `MySQL` passwords...
 
 ```bash
 cd /opt/
