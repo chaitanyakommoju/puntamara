@@ -1,7 +1,7 @@
 ## Puntamara
 ![](https://github.com/socDAEU/puntamara/blob/master/docs/Framework%20for%20excellence.jpg)
 
-The `puntamara` from author `John Doe` is a basic monitoring system and auditing event management framework software, which uses already public instruments. Also, this is an automation of popular instruments for this job. This is small framework and strong software!
+The `puntamara` from author `qlB2xkd/RKxC2YsruBK/98T9QmForfbjmEbuCyfZ5Cc=` is a basic monitoring system and auditing event management framework software, which uses already public instruments. Also, this is an automation of popular instruments for this job. This is small framework and strong software!
 
 ## WARNINGS BEFORE INSTALLATION!!!
 
