@@ -64,6 +64,10 @@ bash installer.sh
 ## Resource: https://github.com/MISP/MISP/blob/2.4/INSTALL/INSTALL.sh
 bash installer_MISP.sh 
 ```
+
+
+## AFTER INSTALLATION:
+
 - NOTE:
 Login into MISP
 MISP default credentials:
