@@ -75,7 +75,7 @@ Password:	admin
 
 ## All services after installation:
 
-![]()
+![](https://github.com/nu11secur1ty/puntamara/blob/main/docs/all-services.gif)
 
 ## Video:
 [href](https://streamable.com/n49lxu)
