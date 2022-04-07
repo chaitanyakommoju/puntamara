@@ -59,6 +59,13 @@ bash installer.sh
 ## Resource: https://github.com/MISP/MISP/blob/2.4/INSTALL/INSTALL.sh
 bash installer_MISP.sh 
 ```
+- NOTE:
+Login into MISP
+MISP default credentials:
+
+Username:	admin@admin.test
+Password:	admin
+
 -----------------------------------------------------------------------
 
 ## The containers after installation:
