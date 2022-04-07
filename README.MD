@@ -63,9 +63,10 @@ bash installer_MISP.sh
 Login into MISP
 MISP default credentials:
 
+```
 Username:	admin@admin.test
 Password:	admin
-
+```
 -----------------------------------------------------------------------
 
 ## The containers after installation:
