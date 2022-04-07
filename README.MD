@@ -69,7 +69,9 @@ bash installer_MISP.sh
 ## AFTER INSTALLATION:
 
 - NOTE:
+
 Login into MISP
+
 MISP default credentials:
 
 ```
