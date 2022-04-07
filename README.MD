@@ -73,6 +73,10 @@ Password:	admin
 
 ![](https://github.com/nu11secur1ty/puntamara/blob/main/docs/Containers.gif)
 
+## All services after installation:
+
+![]()
+
 ## Video:
 [href](https://streamable.com/n49lxu)
 
