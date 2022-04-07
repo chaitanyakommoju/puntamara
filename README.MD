@@ -7,7 +7,7 @@ The `puntamara` from author `qlB2xkd/RKxC2YsruBK/98T9QmForfbjmEbuCyfZ5Cc=` is a 
 
 - For **USERS!!!**
 
-### &#x1F534; Install a Linux machine with username plus home directory `puntamara`!!!
+#### &#x1F534; Install a Linux machine with username plus home directory `puntamara`!!!
 
 ### &#x1F534; DO NOT EXECUTE THOSE SCRIPTS AGAIN AFTER INSTALLATION ON THE SAME MACHINE!!!
 
