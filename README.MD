@@ -8,7 +8,12 @@ The `puntamara` from author `qlB2xkd/RKxC2YsruBK/98T9QmForfbjmEbuCyfZ5Cc=` is a 
 - For **USERS!!!**
 
 ### &#x1F534; Install a Linux machine with username plus home directory `puntamara`!!!
+
 ### &#x1F534; DO NOT EXECUTE THOSE SCRIPTS AGAIN AFTER INSTALLATION ON THE SAME MACHINE!!!
+
+## &#x1F534; IMPORTANT!
+- - - Check for your `SSL` certificate of your virtual machine if you use a virtual machine, and you do not have a certificate, you must install it before running this repository. You will need this authentication by using your pkg key for the installation of `docker` and different other software repositories!
+
 
 ## Need to install
 - ubuntu-20.04.4-live-server-amd64
@@ -16,9 +21,6 @@ The `puntamara` from author `qlB2xkd/RKxC2YsruBK/98T9QmForfbjmEbuCyfZ5Cc=` is a 
 - Git
 - net-tools
 - vim
-
-## &#x1F534; IMPORTANT!
-- - - Check for your `SSL` certificate of your virtual machine if you use a virtual machine, and you do not have a certificate, you must install it before running this repository. You will need this authentication by using your pkg key for the installation of `docker` and different other software repositories!
 
 ---------------------------------------------------------------------------------------------------------------
 
