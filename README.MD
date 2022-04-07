@@ -17,7 +17,7 @@ The `puntamara` from author `qlB2xkd/RKxC2YsruBK/98T9QmForfbjmEbuCyfZ5Cc=` is a 
 - net-tools
 - vim
 
-## IMPORTANT!
+## &#x1F534; IMPORTANT!
 - - - Check for your `SSL` certificate of your virtual machine if you use a virtual machine, and you do not have a certificate, you must install it before running this repository. You will need this authentication by using your pkg key for the installation of `docker` and different other software repositories!
 
 ---------------------------------------------------------------------------------------------------------------
