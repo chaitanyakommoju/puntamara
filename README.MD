@@ -35,6 +35,7 @@ The `puntamara` from author `qlB2xkd/RKxC2YsruBK/98T9QmForfbjmEbuCyfZ5Cc=` is a 
 ## Change the `password` with yours:
 
 ```bash
+cd /opt/
 vim puntamara/nextcloud/docker-compose.yml
 ```
 - where...
