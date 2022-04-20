@@ -1,6 +1,7 @@
 version: "2"
 services:
   elasticsearch:
+  # DON'T TOUCH HERE, IF YOU DON'T KNOW WHAT IS GOING ON!
     #image: elasticsearch:7.9.1
     image: elasticsearch:8.1.2
     environment:
