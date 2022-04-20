@@ -103,6 +103,6 @@ perl docker-stopper.pl
 ```
 ## To start and updating your containers:
 ```bash
-bash docker-starter.sh
+bash docker-UI-starter.sh
 ```
 
