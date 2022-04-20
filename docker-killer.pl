@@ -4,5 +4,7 @@ use strict;
 use diagnostics;
 
 my $cache = `docker system prune -f`;
+  print("$cache\n");
 my $all = `docker system prune -a`;
+  print("$all\n");
   exit 0;
