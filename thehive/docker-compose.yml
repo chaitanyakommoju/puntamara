@@ -1,7 +1,7 @@
 version: "2"
 services:
   elasticsearch:
-    image: elasticsearch:7.9.1
+    image: elasticsearch:latest
     environment:
       - http.host=0.0.0.0
       - discovery.type=single-node
