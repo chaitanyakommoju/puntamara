@@ -3,7 +3,8 @@ version: '3'
 services:
   portainer:
     image: portainer/portainer-ce:latest
-    container_name: portainer
+    # DON'T TOUCH HERE, IF YOU DON'T KNOW WHAT IS GOING ON!
+    # container_name: portainer
     restart: unless-stopped
     security_opt:
       - no-new-privileges:true
