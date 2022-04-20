@@ -105,8 +105,9 @@ perl docker-stopper.pl
 ```bash
 bash docker-UI-starter.sh
 ```
-## To DISTROY the docker containers:
+## To DESTROY the docker containers:
 
 ```bash
+perl docker-stopper.pl
 bash docker-killer.sh
 ```
